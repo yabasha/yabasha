@@ -1,6 +1,8 @@
 # Bashar Ayyash | AI Systems Architect & Tech Lead
 
-**Amman, Jordan** · [Living CV](https://github.com/yabasha/living-cv) · [Portfolio](https://yabasha.dev) · [LinkedIn](https://www.linkedin.com/in/yabasha/)
+**[View my Living CV](https://github.com/yabasha/living-cv)** · Experience, case studies, and how I work
+
+**Amman, Jordan** · [Portfolio](https://yabasha.dev) · [LinkedIn](https://www.linkedin.com/in/yabasha/)
 
 I'm Bashar Ayyash, known online as Yabasha. I build production AI systems for regulated industries and ship full-stack web and mobile products with Laravel, Next.js, and React Native. I bring 20 years of enterprise software experience across fintech, humanitarian information management, and web and mobile products.
 
