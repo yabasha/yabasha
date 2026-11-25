@@ -1,32 +1,37 @@
-# Bashar Ayyash (Yabasha)
+# Bashar Ayyash | AI Systems Architect & Tech Lead
 
-**AI Systems Architect for regulated industries — evals, harness design, AI security.**
+**Amman, Jordan** · [Living CV](https://github.com/yabasha/living-cv) · [Portfolio](https://yabasha.dev) · [LinkedIn](https://www.linkedin.com/in/yabasha/)
 
-Bashar Ayyash (Yabasha) is an AI Systems Architect in Amman, Jordan. Twenty years shipping software, four of them inside a regulated bank building production RAG and agent systems with evals, guardrails and monitoring — in Arabic and English. He writes at [yabasha.dev](https://yabasha.dev) and builds open-source tooling for AI-assisted development. Demos are easy. Production isn't.
+I'm Bashar Ayyash, known online as Yabasha. I build production AI systems for regulated industries and ship full-stack web and mobile products with Laravel, Next.js, and React Native. I bring 20 years of enterprise software experience across fintech, humanitarian information management, and web and mobile products.
 
-## What I work on
+Demos are easy. Production isn't.
 
-Production AI in places where a wrong answer has a cost: evaluation sets, guardrails, fallback paths and the boring plumbing that decides whether an agent survives contact with real users. Arabic and English, which is a narrower problem than it sounds and a much harder one.
+## What I build
+
+- **Production AI:** Bilingual RAG and tool-using agents, with evaluation harnesses, permission boundaries, human review, and monitoring.
+- **Full-stack web and mobile:** Laravel and PHP for APIs and backend services; React, Next.js, and TypeScript for web; React Native for mobile. I also work with Node.js, Fastify, Python, PostgreSQL, and Redis.
+- **Technical leadership:** I lead teams, review architecture and code, and stay hands-on from the first design decision through release.
+
+## How I work
+
+1. **Write down what done means.** Start with the problem, constraints, and acceptance criteria. Record architecture decisions when the tradeoff matters.
+2. **Build a small slice that runs end to end.** Keep changes reviewable in focused pull requests. Use a monorepo when shared code and tooling justify it.
+3. **Test the failure paths.** Run automated checks in CI. For AI features, also check retrieval quality, tool permissions, and regressions in Arabic and English before shipping. Keep people in the approval loop for consequential actions.
+4. **Ship and watch what happens.** Document operational changes, monitor production behavior, and use what breaks to improve the next release.
 
 ## Open source
 
-| Repository | What it is |
+| Repository | What it does |
 |---|---|
-| [copywrite-skill](https://github.com/yabasha/copywrite-skill) | B2B SaaS copywriting skill, built on Schwartz's awareness model |
-| [composable-ai-stack](https://github.com/yabasha/composable-ai-stack) | A modular AI stack — Bun, Turborepo, Convex-first |
-| [arabic-stt-eval](https://github.com/yabasha/arabic-stt-eval) | Dialect-stratified evaluation for Arabic speech-to-text, with explicit normalisation tiers |
-| [geo-seo-claude](https://github.com/yabasha/geo-seo-claude) | GEO-first SEO skill — citability scoring, AI crawler analysis, schema markup |
-| [gauntlet-loop](https://github.com/yabasha/gauntlet-loop) | Makes an agent set a quality bar, run builder and critic pairs, compare blind, and loop until it wins |
-| [agile-workflow](https://github.com/yabasha/agile-workflow) | Agile development and repository management skill for AI coding assistants |
+| [arabic-stt-eval](https://github.com/yabasha/arabic-stt-eval) | Evaluates Arabic speech recognition by dialect and shows how normalization changes the score. |
+| [agile-workflow](https://github.com/yabasha/agile-workflow) | Gives AI coding assistants repeatable workflows for issues, pull requests, reviews, and releases. |
+| [composable-ai-stack](https://github.com/yabasha/composable-ai-stack) | A reusable AI application monorepo built around Bun, Turborepo, and Convex. |
+| [gauntlet-loop](https://github.com/yabasha/gauntlet-loop) | Packages a builder-and-critic review loop as a reusable skill. |
+| [geo-seo-claude](https://github.com/yabasha/geo-seo-claude) | Checks whether web content can be crawled, understood, and cited by search and answer engines. |
+| [copywrite-skill](https://github.com/yabasha/copywrite-skill) | A B2B SaaS copywriting skill built around Schwartz's awareness model. |
 
 ## Writing
 
 I write about what breaks between a working demo and a production system.
 
-- [yabasha.dev/blog](https://yabasha.dev/blog) — the archive
-- [yabasha.dev/newsletter](https://yabasha.dev/newsletter) — hand-written issues
-- [yabasha.dev/llms.txt](https://yabasha.dev/llms.txt) — for the machines
-
-## Elsewhere
-
-[yabasha.dev](https://yabasha.dev) · [LinkedIn](https://linkedin.com/in/yabasha) · [X](https://x.com/bayyash) · [Medium](https://medium.com/@yabasha) · [Hashnode](https://hashnode.com/@yabasha)
+[Blog](https://yabasha.dev/blog) · [Newsletter](https://yabasha.dev/newsletter) · [llms.txt](https://yabasha.dev/llms.txt) · [X](https://x.com/bayyash) · [Medium](https://medium.com/@yabasha) · [Hashnode](https://hashnode.com/@yabasha)
